@@ -1,5 +1,5 @@
 # ADME-T-Prediction
-##Used for ADME\T attribute prediction
+
 1.ADME\T软件背景介绍
 这是一款预测药物分子ADME\T属性的软件，ADME\T属性即药物在生物体内吸收(absorption，A)、分布(distribution，D)、代谢(metabolism，M)、排泄(excretion，E)的规律以及药物的毒性(toxicity，T）。在创新药物研制过程中，药物代谢动力学研究、药效学研究、毒理学研究处于同等重要的地位，已成为药物临床前研究和临床研究的重要组成部分，因此ADME\T属性预测为提高药物研究效率奠定基础。
 
